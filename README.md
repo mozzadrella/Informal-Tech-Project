@@ -24,7 +24,7 @@ I'll be trying to find out which variables make informal tech education "work"--
 The project will be posted to Github and considered in perpetual beta. Informal peer review will occur via pull request. Electronic versions will be available for free and print versions for nominal fee. The license for the project will be a Creative Commons Attribution License (CC-BY).
 
 ## About the Researcher
-Vanessa Gennarelli is a qualitative researcher, learning designer and maker of things. She’s the Learning Lead for Peer 2 Peer University (p2pu.org), a grassroots group leading experiments in how we learn online. She’s worked on innovative projects such as the Mechanical MOOC (http://mechanicalmooc.org/) and Badges for Lifelong Learning (http://badges.p2pu.org/en/). She holds a Master’s of Education from Harvard University and is a former Research Intern with the Lifelong Kindergarten Group at the MIT Media Lab. You can contact her directly at mozzadrella.me, @mozzadrella or vanessa@p2pu.org. 
+Vanessa Gennarelli is a qualitative researcher, learning designer and maker of things. She’s the Learning Lead for Peer 2 Peer University (https://p2pu.org/en/), a grassroots group leading experiments in how we learn online. She’s worked on innovative projects such as the Mechanical MOOC (http://mechanicalmooc.org/) and Badges for Lifelong Learning (http://badges.p2pu.org/en/). She holds a Master’s of Education from Harvard University and is a former Research Intern with the Lifelong Kindergarten Group at the MIT Media Lab. You can contact her directly at mozzadrella.me, @mozzadrella or vanessa@p2pu.org. 
 
 ## Works Cited and Consulted
 
