@@ -1,21 +1,44 @@
 # TIL: Informal Tech Education in a Cross-Cultural Perspective
 ## Overview
-Every tech-oriented magazine and blog can attest to the fact that the “ed tech” industry has exploded in the past 10 years--from start-ups helping learners to code, to new platforms that scale to meet the needs of thousands of learners, technology has affected education in a profound way. (http://www.ambientinsight.com/Resources/Documents/AmbientInsight-2012-Learning-Technology-Investment-Patterns.pdf)
+Every tech-oriented press outlet can attest to the fact that the “ed tech” industry has exploded in the past 10 years--from start-ups helping learners to code, to new platforms that scale to meet the needs of thousands of learners, technology has affected education in a profound way. (http://www.ambientinsight.com/Resources/Documents/AmbientInsight-2012-Learning-Technology-Investment-Patterns.pdf)
 
-However, I’ve also noticed a trend, perhaps even a working hypothesis, that there’s a backlash to VC-fueled educational startups that's garnering steam in the background, or perhaps in parallel. As ed tech has soaked in the limelight, other face-to-face efforts, perhaps even more community-based, grassroots groups, have risen to meet the needs of individualized, social tech education. 
+As the promise of ed-tech platforms try to match the massive demand for tech literacy, another movement is garnering steam in the background: informal learning communities that offer face-to-face, small-scale, individualized and social approaches to tech literacy. 
 
-Perhaps “smarter” “more efficient” software isn’t the answer to widespread tech literacy. This project will take up the question of whether informal learning groups--that are culturally-specific, and more individualized paths of mentorship--are more successful when it comes to tech education. 
+This project will ask what many educators already suspect: perhaps “smarter” “more efficient” learning software isn’t necessarily the path to a more technologically fluent culture. This project will take up the question of whether informal learning groups are more successful when it comes to tech education. 
 
-There are some compelling reasons to believe this is the case. Formal technical education moves toward modernity with the celerity of an iceberg, as attested to by IEEE’s pokey and hesitant curriculum changes. Additionally, formal technical education curriculum is rarely aligned with the applied skill set used in the tech sector, such as web development, electronics, Arduino, and visualization. Informal learning groups have the capacity to move much faster to meet the needs of learners in this way. 
+There are some compelling reasons to believe this is the case. Formal technical education has in many ways failed most demographics of learners. Within higher engineering education, the curriculum is rarely aligned with the applied skill set used in the tech sector, such as web development, electronics, Arduino, and visualization. Informal learning groups have the capacity to move much faster to meet the needs of learners in this way. 
 
-As informal learning groups like DevBootcamp, Hackerschool, OpenTechSchool and Coder Dojo have established themselves around the globe, we don’t really have a sense of where each group excels, where the points of innovation are, or what is unique to the cultural context of each group. Is the curriculum structured around projects? How does each group approach the affective dimension of learning? How is serendipity and horizontal sharing nurtured? What does peer activity look like, such as critique or pair programming? How does expansion up the curriculum to advanced projects function?  
+As informal learning groups like DevBootcamp, Hackerschool, Hackidemia, OpenTechSchool and Coder Dojo have established themselves around the globe, we don’t really have a sense of where each group excels, where the points of innovation are, or what is unique to the cultural context of each group. Is the curriculum structured around projects? How does each group approach the affective dimension of learning? How is serendipity and horizontal sharing nurtured? What does peer activity look like, such as critique or pair programming? How does expansion up the curriculum to advanced projects function?  
 
 At the end of each section, I’ll make learning design recommendations for each group based on a peer-learning, interested-driven, project-based perspective for them to implement as they see fit.
 
 ## Approach and Methods
-I’ll be traveling around the world, visiting informal learning groups that focus on technical education. I’ll conduct a qualitative interview with several founders and a few participants, the protocol for which will focus on the lines of questioning outlined above. I also plan to attend a few events and perform observational research as a participant. 
+I’ll be traveling around the world, visiting informal learning groups that focus on technical education. I’ll conduct a qualitative interview with founders, participants, and attend one event. The protocol will focus on the following lines of questioning:
 
-This project will be committed to participatory design and participatory research. In exchange for extending their welcome and access to participate in their learning experiences, I’ll submit learning design recommendations for the organization with my report, and suggestions regarding how to implement them. 
+*	Introduction / Area 1: Cultural Cohesion
+	* Norms and values
+	* Mission 
+	* Onboarding
+	* Intraorganizational communication 
+*	Area 2: Learning Approach
+	* Pedagogy
+	* Projects
+	* Content development
+	* Success / Literacy / Mastery
+*	Area 3: Interaction Design 
+	* Target demographics
+	* Peer interactions
+	* Sharing
+	* Space design
+	* Critique / feedback models
+* Area 4: Ethics and Governance
+	* Relationship to industry “needs” and requirements
+	* Recruitment
+	* Sponsorship & Partnership
+	* Competition
+	* Decision-making
+
+This project will be committed to participatory design and participatory research. I will ask organizations what they'd like to know about themselves and this landscape, and will incorporate their questions into the protocol. In exchange for extending their welcome and access to participate in their learning experiences, I’ll submit learning design recommendations for the organization with my report, and suggestions regarding how to implement them. 
 
 ## Audience and Distribution
 
