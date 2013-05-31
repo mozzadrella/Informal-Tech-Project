@@ -25,13 +25,12 @@ I’ll be traveling around the world, visiting informal learning groups that foc
 	* Projects
 	* Content development
 	* Success / Literacy / Mastery
-*	Area 3: Interaction Design 
 	* Target demographics
 	* Peer interactions
 	* Sharing
 	* Space design
 	* Critique / feedback models
-* Area 4: Ethics and Governance
+* Area 3: Ethics and Governance
 	* Relationship to industry “needs” and requirements
 	* Recruitment
 	* Sponsorship & Partnership
