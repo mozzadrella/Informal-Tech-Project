@@ -8,7 +8,7 @@ As informal learning groups like DevBootcamp, Hackerschool, Hackidemia, OpenTech
 
 This project will seek to take a survey of the informal tech education landscape. Lines of questioning will include cultural cohesion, learning design, and governance. I will also look at how each group defines mastery and measures success. I will speak to founders, and observe participants by attending one event.
 
-The result will be a series of case studies on each group, and wil culminate in a larger, book-length project that is a snapshot of this field.
+The result will be a series of case studies on each group, and will culminate in a larger, book-length project that is a snapshot of this field.
 
 In return for an interview and permitting me access to their organization, I’ll make learning design recommendations for each group based on a peer-learning, interested-driven, project-based perspective for them to implement as they see fit.
 
