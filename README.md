@@ -77,6 +77,3 @@ Roberts, T. (2006) Self, Peer and Group Assessment in E-Learning. Hershey, PA: I
 Shneiderman, B. (2002). Leonardo's Laptop: Human Needs and the New Computing Technologies. Cambridge, Mass.: MIT Press.
 
 Wiske, M.S. (Ed.) (2005) Teaching for Understanding with Technology. San Francisco, CA: Jossey-Bass. Bates, A.W. (2005) Chapter 3 “Selecting and Using Technologies in Distance Education” pp. 41-66 in Technology, E-Learning, and Distance Education, 2nd Ed.U London: Routledge.
-
-End of document
-
